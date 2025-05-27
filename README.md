@@ -45,7 +45,8 @@ Features of the system include:
  5. 📊 Screenshots & Output
 
 ![Screenshot 2025-05-26 210310 (1)](https://github.com/user-attachments/assets/1b4b809f-16b5-4868-8744-8fae1d514178)
-![Uploading Screenshot 2025-05-26 210219 (1).png…]()
+![Screenshot 2025-05-26 210219 (1)](https://github.com/user-attachments/assets/cec306b8-2a6e-45d7-a326-70f38bc00098)
+
 ![Screenshot 2025-05-26 210022 (1)](https://github.com/user-attachments/assets/09b3961e-2fcf-4bd7-8d82-838146fc9c16)
 
 
